@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding:0;
+    background-color: #2D1E6B;
+    font-family: 'Playfair Display', serif;
+}
+#header{
+    padding: 5px;
+    margin: 0 auto;
+    width : 80%;
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    color : #ffffff
+}
+#logo-container{
+   display: flex;
+   align-items: center;
+   /* width:100px; */
+   /* justify-content: space-between; */
+}
+/* #logo-container h4{
+    margin-left: 10px;
+} */
+#logo-container img{
+    width : 30px;
+    height:30px
+}
+#nav-items{
+    display: flex;
+    list-style: none;
+    width : 500px;
+    justify-content:space-between;
+    align-items:center;
+    font : bold;
+}
+.body{
+    width: 80%;
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.right img{
+    width: 350px;
+    height : 350px
+}
+
+
