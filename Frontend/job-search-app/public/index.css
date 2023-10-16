@@ -35,16 +35,92 @@ body{
     align-items:center;
     font : bold;
 }
-.body{
-    width: 80%;
+#main-content{
     margin: 5px;
     padding: 5px;
+    display:flex;
+    justify-content: flex-end;
+    position:relative;
+    color : #ffffff;
+}
+#main-content .right{
+    width: 80%;
+    height : 100%;
+    z-index : -10;
+    mix-blend-mode: color-dodge;
+}
+#main-content .right img{
+    width: 100%;
+    height: 90vh;
+    margin-top:-2vh
+}
+#main-content .left{
+    position: absolute;
+    width : 50%;
+    height: 100%;
+    left: 40px;
+    top : 100px  
+}
+#main-content .left .big-text{
+    font-size : 40px;
+    font-weight : 900
+
+}
+#main-content .left .overview{
+    display : flex;
+    justify-content: flex-start;
+    gap:15px;
+}
+#main-content .left .overview .overview-items{
     display: flex;
-    justify-content: space-between;
+    /* justify-content: flex-start; */
+    font-size: small;
+    flex-direction: column;
+    align-items : center;
 }
-.right img{
-    width: 350px;
-    height : 350px
+#main-content .left .overview .overview-items h4{
+    font-size : 20px;
+    font-weight: 70px;
+    margin: 0;
+    padding:0;
+    letter-spacing: 3px;
 }
+#main-content .left .overview .overview-items p{
+   margin : 0;
+   padding: auto;
+   font-weight: 300;
+}
+
+.gradient-text{
+    color: indianred;
+}
+.butons{
+    display: flex;
+    justify-content: flex-start;
+}
+.btn{
+    /* display: flex;
+    justify-content:flex-start; */
+    padding: 0 10px;
+    margin: 0 10px;
+    border : 1px solid #ffffff;
+    background-color: transparent;
+    transform: skewX(-20deg);
+}
+.btn1{
+    background-color: crimson;
+}
+.band{
+    display: flex;
+    margin: auto;
+    width: 100%;
+    justify-content: space-around;
+    background-color: #ffffffa1;
+    margin : 15px 10px;
+    /* height: 20px; */
+    padding: 5px 5px;
+}
+
+
 
 
