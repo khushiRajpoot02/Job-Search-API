@@ -64,7 +64,6 @@ body{
 #main-content .left .big-text{
     font-size : 40px;
     font-weight : 900
-
 }
 #main-content .left .overview{
     display : flex;
@@ -115,11 +114,110 @@ body{
     margin: auto;
     width: 100%;
     justify-content: space-around;
-    background-color: #ffffffa1;
-    margin : 15px 10px;
+    /* background-color: #ffffffa1; */
+    /* margin : 15px 10px; */
     /* height: 20px; */
-    padding: 5px 5px;
+    /* padding: 5px 3px; */
+    /* padding-left: 5px;
+    padding-right: 5px; */
+    margin-bottom:100px;
+    background: #ffffff40;
+    box-shadow: 0 80px 32px 0 rgba(31, 38, 135, 0.37);
+    transform: rotate(-3deg);
+    backdrop-filter:blur(4px);
+    border: 1px solid #ffffff40;
 }
+.sub-main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin : 0;
+    padding: 0;
+    text-align: center;
+    color : #ffffff;
+    /* width : 70%; */
+
+}
+.sub-main .heading{
+    margin:-20px;
+    font-size: 20px;
+    font-weight:normal;
+}
+ .description{
+    /* z-index : -20deg; */
+    font-size: small;
+    width: 500px;
+}
+.sub-main .carousel{
+    display: flex;
+    width : 100%;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+.images{
+    width: 300px;
+    height: 200px;
+    margin-bottom: 40px;
+}
+.image-center{
+    width: 400px;
+    height: 350px;
+}
+.discover-section{
+    width: 70%;
+    margin: 100px auto;
+}
+.discover-card{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    box-shadow:inset 0 8px 32px 8 rgba(31, 38, 135, 0.37);
+    mix-blend-mode: color-dodge;
+    border: 1px solid #ffffff40;
+    backdrop-filter: blur(14px);
+}
+.discover-image img{
+  width: 440px;
+  height: 250px;  
+}
+.sub-cards{
+    width : 70%;
+    margin:20px auto;
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+   color : #ffffff;
+}
+.cards-items{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.demo-card{
+    display: flex;
+    width: 250px;
+    margin: 10px auto;
+    flex-wrap: wrap;
+}
+.card-img img{
+    width : 250px;
+}
+.card-sub-img img{
+    width : 30px;
+    height:40px;
+}
+.card-sub-img{
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+
+
+
+
 
 
 
