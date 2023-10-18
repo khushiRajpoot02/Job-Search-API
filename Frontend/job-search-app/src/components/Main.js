@@ -69,12 +69,133 @@ function Main() {
         <h3 className="card-title">Hii this is card</h3>
         <div className="card-sub-img">
         <img src='https://media.istockphoto.com/id/521577939/photo/advance-of-inner-paint.jpg?s=612x612&w=0&k=20&c=cUO1rlOng7aqJPXUrCiG0KmC-9y7LgCxkYSuj2tRito='></img>
+        <div>
         <h4 className="main-title">Title</h4>
-        <p className="card-description">Hii this is all about the <br/>img and hope you will like it</p>
+        <p className="card-description">Hii this is all about the</p>
+        </div>
+        
+        </div>
+        <div className="butons">
+        <div className="btn btn1">BUY NOW</div>
+      </div>
+        </div>
+        <div className="demo-card">
+        <div className="card-img">
+        <img src='https://media.istockphoto.com/id/521577939/photo/advance-of-inner-paint.jpg?s=612x612&w=0&k=20&c=cUO1rlOng7aqJPXUrCiG0KmC-9y7LgCxkYSuj2tRito='/>
+        </div>
+        <h3 className="card-title">Hii this is card</h3>
+        <div className="card-sub-img">
+        <img src='https://media.istockphoto.com/id/521577939/photo/advance-of-inner-paint.jpg?s=612x612&w=0&k=20&c=cUO1rlOng7aqJPXUrCiG0KmC-9y7LgCxkYSuj2tRito='></img>
+        <div>
+        <h4 className="main-title">Title</h4>
+        <p className="card-description">Hii this is all about the</p>
+        </div>
+        
+        </div>
+        <div className="butons">
+        <div className="btn btn1">BUY NOW</div>
+      </div>
+        </div>
+        <div className="demo-card">
+        <div className="card-img">
+        <img src='https://media.istockphoto.com/id/521577939/photo/advance-of-inner-paint.jpg?s=612x612&w=0&k=20&c=cUO1rlOng7aqJPXUrCiG0KmC-9y7LgCxkYSuj2tRito='/>
+        </div>
+        <h3 className="card-title">Hii this is card</h3>
+        <div className="card-sub-img">
+        <img src='https://media.istockphoto.com/id/521577939/photo/advance-of-inner-paint.jpg?s=612x612&w=0&k=20&c=cUO1rlOng7aqJPXUrCiG0KmC-9y7LgCxkYSuj2tRito='></img>
+        <div>
+        <h4 className="main-title">Title</h4>
+        <p className="card-description">Hii this is all about the</p>
+        </div>
+        
+        </div>
+        <div className="butons">
+        <div className="btn btn1">BUY NOW</div>
+      </div>
+        </div>
+        <div className="demo-card">
+        <div className="card-img">
+        <img src='https://media.istockphoto.com/id/521577939/photo/advance-of-inner-paint.jpg?s=612x612&w=0&k=20&c=cUO1rlOng7aqJPXUrCiG0KmC-9y7LgCxkYSuj2tRito='/>
+        </div>
+        <h3 className="card-title">Hii this is card</h3>
+        <div className="card-sub-img">
+        <img src='https://media.istockphoto.com/id/521577939/photo/advance-of-inner-paint.jpg?s=612x612&w=0&k=20&c=cUO1rlOng7aqJPXUrCiG0KmC-9y7LgCxkYSuj2tRito='></img>
+        <div>
+        <h4 className="main-title">Title</h4>
+        <p className="card-description">Hii this is all about the</p>
+        </div>
+        
+        </div>
+        <div className="butons">
+        <div className="btn btn1">BUY NOW</div>
+      </div>
+        </div>
+        <div className="demo-card">
+        <div className="card-img">
+        <img src='https://media.istockphoto.com/id/521577939/photo/advance-of-inner-paint.jpg?s=612x612&w=0&k=20&c=cUO1rlOng7aqJPXUrCiG0KmC-9y7LgCxkYSuj2tRito='/>
+        </div>
+        <h3 className="card-title">Hii this is card</h3>
+        <div className="card-sub-img">
+        <img src='https://media.istockphoto.com/id/521577939/photo/advance-of-inner-paint.jpg?s=612x612&w=0&k=20&c=cUO1rlOng7aqJPXUrCiG0KmC-9y7LgCxkYSuj2tRito='></img>
+        <div>
+        <h4 className="main-title">Title</h4>
+        <p className="card-description">Hii this is all about the</p>
+        </div>
+        
+        </div>
+        <div className="butons">
+        <div className="btn btn1">BUY NOW</div>
+      </div>
+        </div>
+        <div className="demo-card">
+        <div className="card-img">
+        <img src='https://media.istockphoto.com/id/521577939/photo/advance-of-inner-paint.jpg?s=612x612&w=0&k=20&c=cUO1rlOng7aqJPXUrCiG0KmC-9y7LgCxkYSuj2tRito='/>
+        </div>
+        <h3 className="card-title">Hii this is card</h3>
+        <div className="card-sub-img">
+        <img src='https://media.istockphoto.com/id/521577939/photo/advance-of-inner-paint.jpg?s=612x612&w=0&k=20&c=cUO1rlOng7aqJPXUrCiG0KmC-9y7LgCxkYSuj2tRito='></img>
+        <div>
+        <h4 className="main-title">Title</h4>
+        <p className="card-description">Hii this is all about the</p>
+        </div>
+        
+        </div>
+        <div className="butons">
+        <div className="btn btn1">BUY NOW</div>
+      </div>
+        </div>
+        <div className="demo-card">
+        <div className="card-img">
+        <img src='https://media.istockphoto.com/id/521577939/photo/advance-of-inner-paint.jpg?s=612x612&w=0&k=20&c=cUO1rlOng7aqJPXUrCiG0KmC-9y7LgCxkYSuj2tRito='/>
+        </div>
+        <h3 className="card-title">Hii this is card</h3>
+        <div className="card-sub-img">
+        <img src='https://media.istockphoto.com/id/521577939/photo/advance-of-inner-paint.jpg?s=612x612&w=0&k=20&c=cUO1rlOng7aqJPXUrCiG0KmC-9y7LgCxkYSuj2tRito='></img>
+        <div>
+        <h4 className="main-title">Title</h4>
+        <p className="card-description">Hii this is all about the</p>
+        </div>
+        
         </div>
         <div className="card-btn">
         <div className="card-btn1">Explore</div>
         </div>
+        </div>
+        <div className="demo-card">
+        <div className="card-img">
+        <img src='https://media.istockphoto.com/id/521577939/photo/advance-of-inner-paint.jpg?s=612x612&w=0&k=20&c=cUO1rlOng7aqJPXUrCiG0KmC-9y7LgCxkYSuj2tRito='/>
+        </div>
+        <h3 className="card-title">Hii this is card</h3>
+        <div className="card-sub-img">
+        <img src='https://media.istockphoto.com/id/521577939/photo/advance-of-inner-paint.jpg?s=612x612&w=0&k=20&c=cUO1rlOng7aqJPXUrCiG0KmC-9y7LgCxkYSuj2tRito='></img>
+        <div>
+        <h4 className="main-title">Title</h4>
+        <p className="card-description">Hii this is all about the</p>
+        </div> 
+        </div>
+        <div className="butons">
+        <div className="btn btn1">BUY NOW</div>
+      </div>
         </div>
         </div>
         </section>
