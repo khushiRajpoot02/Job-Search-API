@@ -1,7 +1,6 @@
-import { useState } from "react";
+
 function TableBody(props){
 const {charactersData, onDelete} = props;
-
     return(
      <tbody>
       {charactersData.map((row, idx)=>(
